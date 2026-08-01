@@ -5,7 +5,7 @@ Hello, and welcome to my GitHub profile!
 This repository/README file serves as a brief introduction to who I am, and my general profile contains repositories that showcase my personal projects. On my profile, you’ll find everything from independent builds to collaborations with friends and academic work. I recently reorganized and cleaned up my GitHub repositories, consolidating prior work into new, dedicated repos. Most projects have fresh initial commits, but reflect months of development and iteration.
 
 
-If you can’t find a repository for one of my resume-listed projects (such as **ExamCam** or my **Class Scheduling Project**), it’s because those repositories are currently private due to sensitive code. Feel free to reach out if you’d like to learn more about them!  
+If you can’t find a repository for a project I've mentioned (such as **ExamCam** or my **Class Scheduling Project**), it’s because those repositories are currently private due to sensitive code. Feel free to reach out if you’d like to learn more about them!  
 
 Please take a look around, and don’t hesitate to reach out if you have any questions.  
 
