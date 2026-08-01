@@ -14,7 +14,7 @@ Please take a look around, and don’t hesitate to reach out if you have any que
 ## 🕺 Personal Summary  
 
 **Bio:**  
-I’m an enthusiastic junior **Computer Science** major and an experienced team leader with a strong work ethic and a passion for creative problem-solving. I aim to apply my skills in software development, AI/data engineering, and mathematics to make a real-world impact while continuing to grow professionally. In short, I love using my technical expertise to solve meaningful, human-centered problems.  
+I’m an enthusiastic rising senior **Computer Science** major and an experienced team leader with a strong work ethic and a passion for creative problem-solving. I aim to apply my skills in software development, AI/data engineering, and mathematics to make a real-world impact while continuing to grow professionally. In short, I love using my technical expertise to solve meaningful, human-centered problems.  
 
 **About Me:**  
 I take great pride in communicating effectively with both computers and people. I’m energized by creativity and genuine human connection, and I’ve often been told that my enthusiasm inspires those around me. I’m a fast learner with a deep drive for self-improvement, always working to refine my skills and grow into my fullest potential. I believe in *working hard, playing hard,* and living a balanced, healthy lifestyle. I love cooking and make sure to exercise daily — both of which help me maintain focus and well-being. 
